@@ -298,7 +298,7 @@ function App() {
             </div>
             <div>
               <h1 className="text-xl font-black bg-gradient-to-r from-[#4a9eff] to-[#7b61ff] bg-clip-text text-transparent tracking-tight">
-                FlashConvert
+                FlashConvert v1.0
               </h1>
               <div className="flex items-center gap-2">
                 <p className="text-gray-500 text-[10px] uppercase tracking-widest font-bold">

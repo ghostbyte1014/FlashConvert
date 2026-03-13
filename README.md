@@ -1,4 +1,5 @@
-# FlashConvert
+# FlashConvert v1.0: Premium Multi-Unit & Scientific Conversion Suite
+<<<<<<< HEAD
 
 A lightweight, fast, no-login unit and currency conversion web app.
 
@@ -70,3 +71,6 @@ npm run build
 ## License
 
 MIT
+=======
+FlashConvert is a fast, no-login web application designed for professionals and students who need instant, accurate conversions. Built as a Progressive Web App (PWA), it offers a native-app feel with offline support and a custom numeric keypad optimized for mobile productivity.
+>>>>>>> eef521f07078f22ae9b2311c48627627ebbad2bf

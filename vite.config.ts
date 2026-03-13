@@ -9,8 +9,8 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.svg', 'pwa-192x192.svg', 'pwa-512x512.svg'],
       manifest: {
-        name: 'FlashConvert',
-        short_name: 'FlashConvert',
+        name: 'FlashConvert v1.0',
+        short_name: 'FlashConvert v1.0',
         description: 'Fast Unit & Currency Converter',
         theme_color: '#1a1a1a',
         background_color: '#1a1a1a',
